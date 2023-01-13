@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/lingesh-sk/React-Hooks/static/css/main.073c9b0a.css",
-    "main.js": "/lingesh-sk/React-Hooks/static/js/main.ae807f9b.js",
+    "main.js": "/lingesh-sk/React-Hooks/static/js/main.0472eeae.js",
     "index.html": "/lingesh-sk/React-Hooks/index.html",
     "main.073c9b0a.css.map": "/lingesh-sk/React-Hooks/static/css/main.073c9b0a.css.map",
-    "main.ae807f9b.js.map": "/lingesh-sk/React-Hooks/static/js/main.ae807f9b.js.map"
+    "main.0472eeae.js.map": "/lingesh-sk/React-Hooks/static/js/main.0472eeae.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ae807f9b.js"
+    "static/js/main.0472eeae.js"
   ]
 }
